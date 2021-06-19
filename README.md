@@ -13,7 +13,7 @@ Or click on __Clone or Download__ button and choose __Download ZIP__
 * Click on the 3 dots at top right corner
 * Choose __More Tools__ and then __Extensions__
 
-![Pic3](https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension/blob/master/Readme_Images/pic03.png)
+![Pic3](https://github.com/ameerkings123/social_media_launcher/blob/main/Readme_Images/Screenshot%20(32).png)
 
 * Toogle the __Developer Mode__ to right so that it is __ON__ 
 * Click on __Load Unpacked__ and upload the unpacked ZIP files.

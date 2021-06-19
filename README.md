@@ -36,5 +36,6 @@ Your extension is ready to work! Enjoy:thumbsup:
 ![Pic 1](https://github.com/ameerkings123/social_media_launcher/blob/main/Readme_Images/Screenshot%20(35).png)
 <br><br>
 
-<center> Please Do Star my Repo </center>
-
+<div align="center">
+<b>Please do ⭐ this repo if you liked my work</b>
+</div>

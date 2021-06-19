@@ -34,4 +34,7 @@ Or click on __Clone or Download__ button and choose __Download ZIP__
 Your extension is ready to work! Enjoy:thumbsup:
 
 ![Pic 1](https://github.com/ameerkings123/social_media_launcher/blob/main/Readme_Images/Screenshot%20(35).png)
+<br><br>
+
+<center> Please Do Star my Repo </center>
 

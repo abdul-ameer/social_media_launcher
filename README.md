@@ -37,5 +37,5 @@ Your extension is ready to work! Enjoy:thumbsup:
 <br><br>
 
 <div align="center">
-<b>Please do ⭐ this repo if you liked my work</b>
+<b>Please do ✨ this repo if you liked my work</b>
 </div>
